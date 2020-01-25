@@ -47,7 +47,7 @@ class Task extends Component {
 
    </div>
   )
- }
+ } 
 }
 
 

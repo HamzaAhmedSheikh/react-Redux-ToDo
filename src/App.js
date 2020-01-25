@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Task from './Redux_Todo/Task'
+import Task from './redux_ToDoApp/Task'
 
 function App() {
   return (
